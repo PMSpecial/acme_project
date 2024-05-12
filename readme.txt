@@ -14,9 +14,6 @@ pip install -r requirements.txt
 
 python -m pip install --upgrade pip
 
-В активированное виртуальное окружение установите фреймворк Django:
-
-                pip install Django==версия_фреймворка. 
 
 Создайте Django-проект в папке виртуального окружения:
 
