@@ -4,6 +4,8 @@ from . import views
 
 app_name = 'birthday'
 
+handler404 = 'core.views.page_not_found'
+
 urlpatterns = [
     # path('', views.birthday, name='create'),
     # path('list/', views.birthday_list, name='list'),
